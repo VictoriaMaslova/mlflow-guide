@@ -4,7 +4,7 @@ Machine Learning (ML) development brings many new complexities beyond the tradit
 
 To solve these challenges, MLflow, an open source project, simplifies the entire ML lifecycle. MLflow introduces simple abstractions to package reproducible projects, track results, encapsulate models that can be used with many existing tools, and central respositry to share models, accelerating the ML lifecycle for organizations of any size.
 
-# In this article I cover all MLflow Components on a different real-world Machine Learning tasks
+# In this [article](https://medium.com/@mlvictoriamaslova/managing-the-complete-machine-learning-lifecycle-with-mlflow-4d9fe72b37cd) I cover all MLflow Components on a different real-world Machine Learning tasks
 ![](https://miro.medium.com/max/1838/1*SCobTA76kxbY5xDFjv8TOg.png)
 
 

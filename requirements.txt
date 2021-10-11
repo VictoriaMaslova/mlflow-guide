@@ -1,0 +1,6 @@
+mlflow
+boto3==1.16.7
+keras==2.6.0
+pyopenssl==19.1.0
+scipy==1.5.2
+tensorflow==2.6.0
